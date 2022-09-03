@@ -18,7 +18,7 @@ Cieľom vývoja aplikácie bolo osvojiť si zručnosti v oblasti web-scrappingu 
 _scrape args_:  
 
     1) '-s' [job_position]    ->  scrape particular job position  
-    2! '-sa'                  ->  scrape all job position  
+    2) '-sa'                  ->  scrape all job position  
 
 _json result arg_:
 
