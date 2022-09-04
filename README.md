@@ -1,4 +1,4 @@
-# Hyperia - zadanie na pozíciu `Python developer`
+# Hyperia - `Python developer`
 
 
 > __Zadanie__: Vytvor jednoduchú web-scrape cli appku, ktorá zozbiera údaje z danej stránky a vypíše na výstup/do súboru v JSON formáte. Viac [info](https://lnk.sk/rlz6).
