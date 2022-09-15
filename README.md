@@ -22,7 +22,7 @@ _scrape args_:
 
 _json result arg_:
 
-    1) '-j'                   ->  print JSON file w jobs positions  
+    1) '-j'                   ->  print output in JSON format on stdout (w jobs positions)  
     2) '-jo' [filename.json]  ->  create and fill in JSON file w jobs positions
 
 
